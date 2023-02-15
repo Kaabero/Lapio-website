@@ -1,1 +1,19 @@
-p { background-color: red; }
+.leipateksti {
+  color: purple;
+}
+
+#loppu {
+  color: red;
+}
+
+.otsikko {
+  color: blue;
+}
+
+* {
+  color: purple;
+}
+
+li {
+   color: pink;
+}
