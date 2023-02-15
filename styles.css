@@ -1,7 +1,15 @@
+
+
 .first-box-container {
   width: 200px;
   height: 100px;
   background-color: red;
+  text-align: center;
+  color: blue;
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  text-transform: uppercase;
 }
 
 .second-box-container {
@@ -11,6 +19,12 @@
   left: 245px;
   bottom: 115px;
   background-color: yellow;
+  text-align: center;
+  color: blue;
+  border-color: red;
+  border-width: 10px;
+  border-style: solid;
+  text-transform: uppercase;
 }
 
 .third-box-container {
@@ -19,5 +33,11 @@
   background-color: green;
   left: 500px;
   bottom: 230px;
+  text-align: center;
+  color: blue;
+  border-color: yellow;
   position: relative;
+  border-width: 10px;
+  border-style: solid;
+  text-transform: uppercase;
 }
